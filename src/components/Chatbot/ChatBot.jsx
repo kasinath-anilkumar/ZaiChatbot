@@ -70,7 +70,6 @@ const ChatBot = () => {
 
                     Answer to non car related questions in one line.
                     Every operations are done through Zymo Mobile app.
-
                     if an user ask for a rent car price or a car to rent, redirect website or app for price.
 
                     Answers are must be related to indian market for example price.
